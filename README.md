@@ -5,13 +5,14 @@
 **Senior Full-Stack Developer & Software Architect**
 AI-Driven B2B Platforms · ERP Integrations · Real-Time Systems
 
-I design and deliver AI-driven business platforms end to end, from architecture to production.
-Co-founder of Onebtn, a B2B SaaS platform serving 60+ businesses, and an independent developer working with clients across medical, HR-tech, hospitality, travel and defense.
+I design and deliver AI systems and business platforms end to end, from architecture to production, with 10+ years of experience.
+Co-founder of Onebtn, where I lead the architecture of a multi-tenant B2B platform serving 60+ businesses, and founder of [AC](https://acsys.co.il), a software and AI development studio. My work spans the medical, HR-tech, hospitality, travel and defense sectors.
 
 ### What I build
-- **AI-driven platforms**: systems that can be fully operated through AI, from business processes and workflows to interfaces and integrations
+- **AI systems**: LLM integration, AI agents and AI automation inside existing business systems
+- **AI-operated platforms**: systems that can be fully operated through AI, from business processes and workflows to interfaces and integrations
+- **ERP integrations**: Priority, SAP Business One and other ERP systems, with reliable sync of products, prices, stock and orders
 - **B2B & e-commerce platforms**: multi-tenant SaaS with web and mobile apps
-- **ERP integrations**: Priority, SAP Business One and other ERP systems
 - **Real-time systems**: map-based monitoring and control with live data
 
 ### Tech
@@ -31,9 +32,10 @@ Co-founder of Onebtn, a B2B SaaS platform serving 60+ businesses, and an indepen
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Let's talk
-Available for freelance projects · Remote
+Open to new projects through AC · Remote, Israel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adir_Cohen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adir-cohen-738b45209/)
 [![Email](https://img.shields.io/badge/Email-adir2400@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adir2400@gmail.com)
+[![Website](https://img.shields.io/badge/Website-acsys.co.il-0E7490?style=flat-square&logo=googlechrome&logoColor=white)](https://acsys.co.il)
 
-<sub>Most of my work lives in private client repositories.</sub>
+<sub>Most of my work lives in private repositories.</sub>
