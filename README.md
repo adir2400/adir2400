@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/adir2400/adir2400/main/banner.png" alt="Adir Cohen" width="100%" />
+<img src="banner.png" alt="Adir Cohen, Senior Full-Stack Developer & Software Architect" width="100%" />
 
 # Hi, I'm Adir Cohen 👋
 
