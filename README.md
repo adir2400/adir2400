@@ -1,9 +1,9 @@
-<img src="banner.png" alt="Adir Cohen, Senior Full-Stack Developer & Software Architect" width="100%" />
+<img src="banner.png" alt="Adir Cohen, Software Architect & Senior Full-Stack Developer. Founder, AC. AI systems, ERP integrations, custom software. acsys.co.il" width="100%" />
 
 # Hi, I'm Adir Cohen 👋
 
-**Senior Full-Stack Developer & Software Architect**
-AI-Driven B2B Platforms · ERP Integrations · Real-Time Systems
+**Software Architect & Senior Full-Stack Developer**
+AI Systems & ERP Integrations · Co-Founder, Onebtn · Founder, AC
 
 I design and deliver AI systems and business platforms end to end, from architecture to production, with 10+ years of experience.
 Co-founder of Onebtn, where I lead the architecture of a multi-tenant B2B platform serving 60+ businesses, and founder of [AC](https://acsys.co.il), a software and AI development studio. My work spans the medical, HR-tech, hospitality, travel and defense sectors.
